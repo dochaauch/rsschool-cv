@@ -64,8 +64,8 @@ class Quark(object):
 
 
 ## Languages:
-
-
-
-
+* English - Intermediate
+* Russian - Native
+* German - Intermediate (B2)
+* Estonian - PreIntermediate
 
