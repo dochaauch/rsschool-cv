@@ -54,6 +54,7 @@ class Quark(object):
         self.color, other.color = other.color, self.color
 ```
 
+
 ## Courses:
 * Python Programming, Stepik
 * Introduction to Bash Scripting, DataCamp
