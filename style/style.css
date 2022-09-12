@@ -5,6 +5,10 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #4d2323;
     
     /*pin the footer to the bottom of the page */
     min-height: 100vh;
@@ -22,7 +26,7 @@ header {
 }
 
 main {
-    background-color: brown;
+    background-color: burlywood;
     
     
 }
@@ -83,4 +87,22 @@ html {
     .section {
       width: 100%;
     }
+  }
+
+.section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+  }
+
+.link {
+    text-decoration: none;
+    color: #829985;
+    transition: color 0.5s;
+  }
+  
+.link:hover {
+    color: #5d7260;
   }
